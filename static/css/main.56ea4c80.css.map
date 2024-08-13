@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.56ea4c80.css","mappings":"AAAA,gBAKE,kBAAmB,CAFnB,WAAY,CACZ,QAEF,CACA,cACE,qBACF","sources":["index.css"],"sourcesContent":["html,\nbody,\n#root {\n  height: 100%;\n  margin: 0;\n  background: skyblue;\n}\n#leva__root > * {\n  width: 140px !important;\n}\n"],"names":[],"sourceRoot":""}

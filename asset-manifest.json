@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rubix-cube/static/css/main.56ea4c80.css",
+    "main.js": "/Rubix-cube/static/js/main.2745ba6b.js",
+    "index.html": "/Rubix-cube/index.html",
+    "main.56ea4c80.css.map": "/Rubix-cube/static/css/main.56ea4c80.css.map",
+    "main.2745ba6b.js.map": "/Rubix-cube/static/js/main.2745ba6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ea4c80.css",
+    "static/js/main.2745ba6b.js"
+  ]
+}
